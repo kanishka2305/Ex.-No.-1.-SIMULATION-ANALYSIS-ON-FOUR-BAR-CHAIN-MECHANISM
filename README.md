@@ -60,4 +60,4 @@
 ### Register Number: 212222230061
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+  Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
